@@ -24,14 +24,14 @@ pinout:
   ui[7]: "A3"
 
   # Outputs
-  uo[0]: "a"
-  uo[1]: "b"
-  uo[2]: "c"
-  uo[3]: "d"
-  uo[4]: "e"
-  uo[5]: "f"
-  uo[6]: "g"
-  uo[7]: "dp"
+  uo[0]: "P0"
+  uo[1]: "P1"
+  uo[2]: "P2"
+  uo[3]: "P3"
+  uo[4]: "P4"
+  uo[5]: "P5"
+  uo[6]: "P6"
+  uo[7]: "P7"
 
   # Bidirectional pins
   uio[0]: ""
