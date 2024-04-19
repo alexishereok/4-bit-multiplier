@@ -4,7 +4,7 @@ project:
   title:        "4 bit Multiplier"      # Project title
   author:       "Dr. Lipika Gupta, Nikhil Jindal, Lakha Singh, Devraj Singh, Jugraj Singh"      # Your name
   discord:      "nikhiljindal_"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "It multiply $ bit number and gives output in binary code."      # One line description of what your project does
+  description:  "It multiply 4 bit number and gives output in binary code."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
