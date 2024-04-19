@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-User enter 2 4-bit number A and B and gets output in binary form.
+User enter 4-bit number A and B and gets output in binary form.
 
 ## How to test
 
-Firstly user enter 2 4-bit number and then the circuit multiply it and gives it in a binary form.
+Firstly user enter 4-bit number and then the circuit multiply it and gives it in a binary form.
 
 ## External hardware
 
-Dip switch and LEDS.
+Dip switch and 7 segment LCD displat.
