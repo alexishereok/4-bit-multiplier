@@ -13,8 +13,8 @@ User enter 2 4-bit number A and B and gets output in binary form.
 
 ## How to test
 
-Firstly user enter 2 4-bit number and then the circuit multiply it and gives it in a binary form where a=1,b=2,c=4,d=8,e=16,f=32,g=64 and dp=128.
+Firstly user enter 2 4-bit number and then the circuit multiply it and gives it in a binary form.
 
 ## External hardware
 
-Dip switch and 7 segment LED display
+Dip switch and LEDS.
